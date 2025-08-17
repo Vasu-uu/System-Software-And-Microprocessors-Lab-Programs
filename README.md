@@ -45,5 +45,3 @@ The lab is divided into two sections:
    - A resource allocation and deadlock avoidance algorithm that checks for a safe sequence of processes.  
 
 ---
-  gcc filename.c -o output
-  ./output
