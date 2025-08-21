@@ -45,3 +45,11 @@ The lab is divided into two sections:
    - A resource allocation and deadlock avoidance algorithm that checks for a safe sequence of processes.  
 
 ---
+
+### 🔹 Experiment 5 – Memory Management Techniques
+1. **First Fit**  
+   - Allocates the first free block that is large enough for the process.  
+2. **Worst Fit**  
+   - Allocates the largest free block available, leaving the largest leftover space.  
+3. **Best Fit**  
+   - Allocates the smallest free block that is large enough, leaving the least leftover space.  
